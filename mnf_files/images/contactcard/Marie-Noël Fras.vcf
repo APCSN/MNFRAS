@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.5//EN
+N:Fras;Marie-Noël;;;
+FN:Marie-Noël Fras
+ORG:MNF COURTAGE;
+EMAIL;type=INTERNET;type=HOME;type=pref:accueil@mnfcourtage.com
+TEL;type=CELL;type=VOICE;type=pref:09 72 56 66 60
+item1.URL;type=pref:https://mnfcourtage.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
