@@ -39,7 +39,7 @@
         margin: 0 auto 20px auto;
         width: 60%;
         max-width: 280px;
-        border : 3px solid black ;
+        border : 3px solid #0f283a;;
         border-radius: 280px;
     }
 
@@ -178,7 +178,7 @@ body.carte .reseau {
 
         body.carte .bouton-inner-contact > a:hover, body.carte .bouton-inner-contact > a:focus {
             text-decoration: none;
-            background-color: #0391b2;
+            background-color: #b5231a;
             color: #ffffff;
         }
         
